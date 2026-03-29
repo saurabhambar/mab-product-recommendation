@@ -216,6 +216,7 @@ git clone https://github.com/<your-username>/mab-product-recommendation
 cd mab-product-recommendation
 pip install -r requirements.txt
 jupyter notebook
+```
 
 ## Business Impact
 
