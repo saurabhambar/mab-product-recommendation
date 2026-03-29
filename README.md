@@ -201,10 +201,11 @@ The project includes:
 
 ## Project Structure
 
+```
 ├── MAB_Assignment.ipynb
 ├── Dataset_Product_Recommendation.csv
 ├── README.md
-
+```
 
 ---
 
